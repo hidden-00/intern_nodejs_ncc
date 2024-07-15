@@ -10,7 +10,8 @@
 - GET, POST, PUT, DELETE, PATCH tương ứng với CRUD cơ bản (Demo)
 ### Authentication and Authorization
 - Phân tích luồng xử lí
-- 
+- Nguyên lí xác thực và phân quyền: Xác thực sử dụng JWT, phân quyền dưa trên url path và method
+- Demo
 ### Pagination
 Demo
 ### Monitoring và Logging
