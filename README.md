@@ -2,7 +2,7 @@
 
 # Thứ 3 16/07/2024
 
-## Backend && Database
+## Backend
 
 ### RESTfulAPI 
 - (Representational State Transfer API) là một kiến trúc phần mềm sử dụng giao thức HTTP để giao tiếp giữa các hệ thống phần mềm.
@@ -17,6 +17,4 @@ Demo
 ### Monitoring và Logging
 Demo
 ### Validation data
-Demo
-## GITHUB
 Demo
