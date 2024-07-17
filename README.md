@@ -18,3 +18,8 @@ Demo
 Demo
 ### Validation data
 Demo
+
+# Thứ 4 17/07/2024
+- Tìm hiểu OOP trong Typescript.
+- Tip and Trick Typescript.
+- Coding: ConfigService
