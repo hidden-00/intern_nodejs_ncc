@@ -21,5 +21,6 @@ Demo
 
 # Thứ 4 17/07/2024
 - Tìm hiểu OOP trong Typescript.
+- Sử dụng Interface để mô phỏng cấu trúc dữ liệu, class thì mô tả các đối tượng với các phương thức và thuộc tính cụ thể chứa các logic, trạng thái và hành vi phức tạp
 - Tip and Trick Typescript.
 - Coding: ConfigService
