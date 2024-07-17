@@ -24,3 +24,8 @@ Demo
 - Sử dụng Interface để mô phỏng cấu trúc dữ liệu, class thì mô tả các đối tượng với các phương thức và thuộc tính cụ thể chứa các logic, trạng thái và hành vi phức tạp
 - Tip and Trick Typescript.
 - Coding: ConfigService
+- Coding Error Handle and seed data
+- Learn basic OOP typescript (Interface, Class, Syntax OOP Typescript)
+
+# Thứ 5 18/07/2024
+- 
