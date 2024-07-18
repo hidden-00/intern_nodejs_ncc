@@ -28,4 +28,7 @@ Demo
 - Learn basic OOP typescript (Interface, Class, Syntax OOP Typescript)
 
 # Thứ 5 18/07/2024
-- 
+
+![image](https://github.com/user-attachments/assets/75a11660-2fee-4731-9144-ab4c6333fa93)
+
+![image](https://github.com/user-attachments/assets/0ae9a946-2148-4dc6-8f1c-5b82522c0b6a)
